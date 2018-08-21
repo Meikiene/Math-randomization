@@ -11,4 +11,4 @@ var userAnswer = prompt("Enter First Name");
 var x = Math.floor(Math.random() * adjWords.length);
 //Let the user know what kind of person are. For example,
 //username followed or preceded by the array item.
-window.alert( adjWords[x] + " " + userAnswer);
+window.alert(adjWords[x] + " " + userAnswer);
